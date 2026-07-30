@@ -1,0 +1,4 @@
+interface:
+  display_name: "自媒体导演"
+  short_description: "剪辑成片、预测账号流量，并给出下一条最值得拍的视频"
+  default_prompt: "Use $self-media-director to edit my video, forecast account traffic from historical data, and recommend the single best next video to record."
